@@ -1,0 +1,21 @@
+body {
+	background-color:#f9f;
+	color: #606;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: large;
+	margin-left: 10%;
+	margin-right: 10%;
+	}
+h1 {
+	text-align: center;
+}
+ul {
+	float: left;
+
+}
+img {
+	margin: 10px; 
+	border: 2px solid black;
+	float: right;
+
+}
